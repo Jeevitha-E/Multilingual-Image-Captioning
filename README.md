@@ -49,3 +49,10 @@ Then run in terminal:
 
 ```bash
 pip install -r requirements.txt
+
+---
+
+##  Team
+
+- **Jeevitha E** – [@Jeevitha-E](https://github.com/Jeevitha-E)
+- **Kethciyal** – [@kethciyal](https://github.com/kethciyal)
